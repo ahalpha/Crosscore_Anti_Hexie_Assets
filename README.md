@@ -31,7 +31,7 @@ git clone https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets.git
 
 ## 更新记录
 ```
-2 月 8 日 - 上传反和谐资源
+2 月 8 日 - 更新反和谐资源
 ```
 ## 联系我们
 
