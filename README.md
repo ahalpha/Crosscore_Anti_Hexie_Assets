@@ -1,6 +1,10 @@
 # Crosscore_Anti_Hexie_Assets
 **交错战线反和谐资源**（仅供临时备用使用，你可以等待官方的反和谐资源。）
 
+## 提示
+
+本文章完全免费，如果这篇文章是你通过付费得到的，说明你已经被骗了，请立即要求退款并举报！
+
 ## 包含内容
 ### 制作环境
 - 仅支持 Android 系统的设备。
@@ -29,13 +33,12 @@ git clone https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets.git
 /storage/emulated/0/Android/data/com.megagame.crosscore/
 ```
 
-## 更新记录
-```
-2 月 8 日 - 更新反和谐资源
-```
 ## 联系我们
 
 **加入频道：**[**`交错战线 | 二创资源收集`**](https://t.me/crosscore_mod)
 
+## 更新记录
+```
+2 月 8 日 - 更新反和谐资源
+```
 
-__
