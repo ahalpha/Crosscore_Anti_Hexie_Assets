@@ -20,7 +20,7 @@
 
 ## 如何使用
 
-01. 将此项目克隆至本地，或者进入 [Releases](https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets/releases) 下载。
+01. 将此项目克隆至本地。
 ```
 git clone https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets.git
 ```
@@ -28,7 +28,7 @@ git clone https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets.git
 
 03. 在你的设备或模拟器上，移动 `Custom` 文件夹至以下指定的目录。
 ```
-/storage/emulated/0/Android/data/com.megagame.crosscore/
+/storage/emulated/0/Android/data/com.megagame.crosscore/files/
 ```
 
 ## 联系我们
