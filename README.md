@@ -1,0 +1,2 @@
+# Crosscort_Anti_Hexie_Assets
+交错战线反和谐资源包
