@@ -18,7 +18,7 @@
 
 ## 如何使用
 
-01. 将此项目克隆到本地。
+01. 将此项目克隆至本地。
 ```
 git clone https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets.git
 ```
