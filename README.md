@@ -1,4 +1,4 @@
-# Crosscort_Anti_Hexie_Assets
+# Crosscore_Anti_Hexie_Assets
 交错战线反和谐资源
 *仅临时备用使用，你可以等待官方的反和谐。*
 
@@ -17,7 +17,7 @@
 
 01. 将此项目克隆到本地。
 ```
-git clone https://github.com/ahalpha/Crosscort_Anti_Hexie_Assets.git
+git clone https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets.git
 ```
 02. 将 `./Custom` 文件夹传输至你的 Android 系统的设备或模拟器。
 
