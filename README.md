@@ -20,7 +20,7 @@
 
 ## 如何使用
 
-01. 将此项目克隆至本地，或者进入 [Releases](https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets/releases) 下载。
+01. 将此项目克隆至本地。
 ```
 git clone https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets.git
 ```
