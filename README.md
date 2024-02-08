@@ -17,7 +17,7 @@
 ```
 git clone https://github.com/ahalpha/Crosscort_Anti_Hexie_Assets.git
 ```
-02. 将 `./Custon/` 文件夹传输至你的 Android 系统的设备或模拟器。
+02. 将 `./Custom` 文件夹传输至你的 Android 系统的设备或模拟器。
 
 03. 在你的设备或模拟器上，移动 `Custom` 文件夹至以下指定的目录。
 ```
