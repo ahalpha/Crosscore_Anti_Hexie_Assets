@@ -28,3 +28,7 @@ git clone https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets.git
 ```
 /storage/emulated/0/Android/data/com.megagame.crosscore/
 ```
+
+## 联系我们
+
+[进入交错战线 | 二创资源收集 频道](https://t.me/crosscore_mod)
