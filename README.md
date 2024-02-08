@@ -33,4 +33,5 @@ git clone https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets.git
 
 **加入频道：**[**`交错战线 | 二创资源收集` 频道**](https://t.me/crosscore_mod)
 
-...
+
+__
