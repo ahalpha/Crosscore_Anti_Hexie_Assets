@@ -13,7 +13,8 @@
 - 重制部分资源，在没有问题的情况下还原界面的英文文本。
 - 不影响原游戏体验。
 
-*如有任何问题，请在 [Issues](https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets/issues) 反馈。*
+*部分角色的表情可能有问题，如果发现，请在 [Issues](https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets/issues) 反馈。*
+*如有任何其他问题，请在 [Issues](https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets/issues) 反馈。*
 
 ## 如何使用
 
