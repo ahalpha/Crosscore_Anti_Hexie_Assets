@@ -35,6 +35,8 @@ git clone https://github.com/ahalpha/Crosscore_Anti_Hexie_Assets.git
 
 **加入频道：**[**`交错战线 | 二创资源收集`**](https://t.me/crosscore_mod)
 
+**加入频道：**[**`交错战线 crosscore 反和谐 魔改补丁放送`**](https://t.me/jczxfhx)
+
 ## 更新记录
 ```
 2 月 8 日 - 更新反和谐资源
